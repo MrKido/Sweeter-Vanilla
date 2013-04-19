@@ -1,0 +1,20 @@
+[
+{
+  "modid": "SweeterVanilla",
+  "name": "Sweeter-Vanilla",
+  "description": "Do some tasty stuff with exp and vanilla!",
+  "version": "pre0.0.1",
+  "url": "https://github.com/MrKido/Sweeter-Vanilla",
+  "updateUrl": "",
+  "authorList": [
+    "MrKido'"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
